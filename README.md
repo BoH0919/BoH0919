@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me here ! I am an on line Japanese teacher
 <a href="https://jp.amazingtalker.com ">AmazingTalker オンラインレッスン</a><br>
-<a href="https://jp.amazingtalker.com/tutors/english">オンライン英会話</a>
-<a href="https://jp.amazingtalker.com/tutors/korean">オンライン韓国語</a>
-<a href="https://jp.amazingtalker.com/tutors/english?offline=classes-near-me">英語個人レッスン</a>
-<a href="https://jp.amazingtalker.com/tutors/korean?offline=classes-near-me">韓国語個人レッスン</a>
+<a href="https://jp.amazingtalker.com/tutors/english">オンライン英会話</a><br>
+<a href="https://jp.amazingtalker.com/tutors/korean">オンライン韓国語</a><br>
+<a href="https://jp.amazingtalker.com/tutors/english?offline=classes-near-me">英語個人レッスン</a><br>
+<a href="https://jp.amazingtalker.com/tutors/korean?offline=classes-near-me">韓国語個人レッスン</a><br>
 
 
 <!---
