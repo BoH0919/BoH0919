@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C# and HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me here ! I am an on line Japanese teacher
+- 
 <a href=" https://jp.amazingtalker.com "> AmazingTalker オンラインレッスン　</a>
 
 <!---
